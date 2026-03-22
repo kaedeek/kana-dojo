@@ -327,6 +327,17 @@
     "Mount Haku"
   ],
   "correctIndex": 0
+},
+{
+  "question": "What is the name of the bullet train network in Japan? (Community variation 2)",
+  "difficulty": "easy",
+  "answers": [
+    "Shinkansen",
+    "Metro Line",
+    "Skyrail",
+    "Kairo"
+  ],
+  "correctIndex": 0
 }
 ]
 
